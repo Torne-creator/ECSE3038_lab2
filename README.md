@@ -1,4 +1,4 @@
-#ECSE3038_Lab2
+Lab2
 #Aim
 This lab is meant to get students more accustomed to the technologies used in designing and implementing a RESTful API server.
 
